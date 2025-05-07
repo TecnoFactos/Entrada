@@ -135,10 +135,24 @@ sections:
         type: FeaturedItem
       - title: Nuestra Visión y Misión
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          En Tecno Factos, tenemos la misión de ofrecer productos tecnológicos
+          que no solo sean innovadores, sino también accesibles y de alta
+          calidad. Creemos que la tecnología debe estar al servicio de las
+          personas, ayudándolas a mejorar su estilo de vida, aumentar su
+          productividad y mantenerse conectadas en un entorno digital que
+          evoluciona constantemente.
+
+
+          Nuestra visión es convertirnos en una marca de referencia en el mundo
+          de la tecnología. Aspiramos a ser reconocidos por crear dispositivos
+          que destacan por su calidad, diseño y funcionalidad, y por ser el
+          puente que conecta a las personas con el futuro tecnológico. En cada
+          paso, apostamos por la innovación y la excelencia como pilares de
+          nuestro crecimiento.
+
+
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
