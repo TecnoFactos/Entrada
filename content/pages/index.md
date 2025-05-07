@@ -216,7 +216,7 @@ sections:
         tagline: ''
         subtitle: Samalero
         text: >
-          Darío , a nada de entrar a la cárcel por intentar vender aire premium
+          Darío, a nada de entrar a la cárcel por intentar vender aire premium
           en botellas de e’pura, se especializa como desarrollador web, con
           experiencia cómo profesional en PvZ GW.
         image:
