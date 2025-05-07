@@ -199,7 +199,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/WhatsApp Image 2025-05-07 at 8.43.37 AM.jpeg
           altText: Maria Walters
           styles:
             self:
