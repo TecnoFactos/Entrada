@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      Bienvenido a Tecno Factos: La Tecnología del Futuro, HoyEn un mundo donde
+      Bienvenido a Tecno Factos: La Tecnología del Futuro, Hoy En un mundo donde
       la tecnología avanza a pasos agigantados, en Tecno Factos creemos que la
       innovación debe estar al alcance de todos.
     text: >
