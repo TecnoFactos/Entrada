@@ -267,6 +267,34 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+      - type: FeaturedItem
+        title: Coordinador de TecnoFactos
+        tagline: ''
+        subtitle: Francisco de Zer0
+        text: >
+          Francisco Sanchez, Gerente de TI con más de 10 años de experiencia
+          liderando equipos en entornos corporativos. empresariales. Le gustan
+          Mayores. Se roba los tanques de gas de la empresa
+        image:
+          type: ImageBlock
+          url: /images/jfsg.png
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
