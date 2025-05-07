@@ -214,7 +214,7 @@ sections:
       - type: FeaturedItem
         title: Técnico de TecnoFactos
         tagline: ''
-        subtitle: 'Jane Doe, Company'
+        subtitle: Samalero
         text: >
           Darío , a nada de entrar a la cárcel por intentar vender aire premium
           en botellas de e’pura, se especializa como desarrollador web, con
