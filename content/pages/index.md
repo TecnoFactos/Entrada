@@ -316,16 +316,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us
@@ -518,6 +508,16 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
