@@ -133,7 +133,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Nuestra Visión y Misíon
+      - title: Nuestra Visión y Misión
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
