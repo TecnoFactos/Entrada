@@ -345,7 +345,7 @@ sections:
     subtitle: Planes de suscripción
     plans:
       - type: PricingPlan
-        title: Pobre
+        title: Samalero Fan
         price: Free
         details: No credit card required
         description: >-
