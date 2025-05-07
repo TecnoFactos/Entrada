@@ -98,7 +98,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Nuestra Historia
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >+
           Tecno Factos nació con la visión de revolucionar la manera en que
           interactuamos con la tecnología. En un mercado lleno de productos
