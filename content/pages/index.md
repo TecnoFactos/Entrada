@@ -270,7 +270,7 @@ sections:
       - type: FeaturedItem
         title: Técnico/Asistente Virtual de TecnoFactos
         tagline: ''
-        subtitle: Francisco de Zer0
+        subtitle: Omaly
         text: >
           Francisco Sanchez, Gerente de TI con más de 10 años de experiencia
           liderando equipos en entornos corporativos. empresariales. Le gustan
