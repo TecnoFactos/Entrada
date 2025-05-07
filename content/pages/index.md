@@ -197,7 +197,7 @@ sections:
           Mayores. Se roba los tanques de gas de la empresa
         image:
           type: ImageBlock
-          url: /images/WhatsApp Image 2025-05-07 at 8.43.37 AM.jpeg
+          url: /images/jfsg.png
           altText: Maria Walters
           styles:
             self:
