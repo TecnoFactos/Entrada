@@ -274,7 +274,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/zzz.png
+          url: /images/asdfg.jpg
           altText: Maria Walters
           styles:
             self:
