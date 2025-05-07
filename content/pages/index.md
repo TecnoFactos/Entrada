@@ -217,10 +217,10 @@ sections:
           Netlify.”
         tagline: Testimonial 2
         subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Darío , a nada de entrar a la cárcel por intentar vender aire premium
+          en botellas de e’pura, se especializa como desarrollador web, con
+          experiencia cómo profesional en PvZ GW.
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
