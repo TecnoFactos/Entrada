@@ -66,7 +66,7 @@ sections:
     subtitle: Inicios
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Quiénes Somos
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
