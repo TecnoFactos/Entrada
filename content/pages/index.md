@@ -221,7 +221,7 @@ sections:
           experiencia cómo profesional en PvZ GW.
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/sam.png
           altText: Jane Doe
           styles:
             self:
