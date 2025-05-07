@@ -134,7 +134,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Nuestra Visión y Misión
-        subtitle: Faster
+        subtitle: ''
         text: >
           En Tecno Factos, tenemos la misión de ofrecer productos tecnológicos
           que no solo sean innovadores, sino también accesibles y de alta
