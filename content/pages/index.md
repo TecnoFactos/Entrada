@@ -185,7 +185,7 @@ sections:
       subtitle:
         textAlign: center
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Empleados
     items:
       - type: FeaturedItem
         title: Coordinador de TecnoFactos
