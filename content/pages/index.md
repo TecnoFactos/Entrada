@@ -191,10 +191,10 @@ sections:
         title: Coordinador de TecnoFactos
         tagline: Cordinador
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Francisco Sanchez, Gerente de TI con más de 10 años de experiencia
+          liderando equipos en entornos corporativos. empresariales. Le gustan
+          Mayores. Se roba los tanques de gas de la empresa
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2025-05-07 at 8.43.37 AM.jpeg
