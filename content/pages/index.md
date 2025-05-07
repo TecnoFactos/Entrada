@@ -189,7 +189,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Coordinador de TecnoFactos
-        tagline: Cordinador
+        tagline: ''
         subtitle: Francisco de Zer0
         text: >
           Francisco Sanchez, Gerente de TI con más de 10 años de experiencia
