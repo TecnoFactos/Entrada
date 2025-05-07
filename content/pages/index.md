@@ -277,7 +277,9 @@ sections:
         tagline: ''
         subtitle: Omaly
         text: |+
-          Solo es omaly
+          **Solo es Omaly**
+
+          Nadie sabe exactamente qué hace, pero ahí esta 
 
         image:
           type: ImageBlock
