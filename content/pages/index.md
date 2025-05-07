@@ -193,7 +193,7 @@ sections:
           Mayores. Se roba los tanques de gas de la empresa
         image:
           type: ImageBlock
-          url: /images/jfsg.png
+          url: '/images/sgf}.png'
           altText: Maria Walters
           styles:
             self:
