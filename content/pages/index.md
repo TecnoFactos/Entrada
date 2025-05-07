@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: TecnoFactos
+      text: TecnoFactos Industries
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
