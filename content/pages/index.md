@@ -409,7 +409,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Fan de Samalero Vip
+        title: Samalero Vip
         price: $240
         details: per month
         description: >-
