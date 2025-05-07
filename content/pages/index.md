@@ -331,6 +331,9 @@ sections:
       type: TitleBlock
       text: Inversores
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: PricingSection
     title:
       type: TitleBlock
