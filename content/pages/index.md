@@ -329,7 +329,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Inversores
       color: text-dark
   - type: PricingSection
     title:
