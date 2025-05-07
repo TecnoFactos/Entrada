@@ -271,10 +271,9 @@ sections:
         title: Técnico/Asistente Virtual de TecnoFactos
         tagline: ''
         subtitle: Omaly
-        text: >
-          Francisco Sanchez, Gerente de TI con más de 10 años de experiencia
-          liderando equipos en entornos corporativos. empresariales. Le gustan
-          Mayores. Se roba los tanques de gas de la empresa
+        text: |+
+          Solo es omaly
+
         image:
           type: ImageBlock
           url: /images/zzz.png
