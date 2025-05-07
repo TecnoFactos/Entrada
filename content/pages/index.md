@@ -345,7 +345,7 @@ sections:
     subtitle: Planes de suscripción
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Pobre
         price: Free
         details: No credit card required
         description: >-
