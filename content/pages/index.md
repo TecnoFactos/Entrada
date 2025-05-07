@@ -326,37 +326,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: '/images/{0FC3EBA2-9A34-4CF7-B6DB-0EB601C77322}.png'
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us
@@ -549,6 +518,37 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - subtitle: Award winning enterprises trust us
+    images:
+      - url: /images/empathy-logo.svg
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/wellster-logo.svg
+        altText: Wellster logo
+        type: ImageBlock
+      - url: '/images/{0FC3EBA2-9A34-4CF7-B6DB-0EB601C77322}.png'
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/telus-logo.svg
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/contenful-logo.svg
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/sanity-logo.svg
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/rangle-logo.svg
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - title:
       text: Grow your business 10x faster
       color: text-dark
