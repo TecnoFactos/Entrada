@@ -68,15 +68,13 @@ sections:
       - type: FeaturedItem
         title: ¿Quiénes Somos?
         subtitle: Numbers Done
-        text: >+
-
-          Factos somos una empresa dedicada a crear y distribuir tecnología
-          innovadora, accesible y funcional. Diseñamos gadgets y dispositivos
-          que simplifican la vida diaria, mejoran la productividad y acercan a
-          las personas al futuro digital. Nuestro equipo combina experiencia en
+        text: >
+          Somos una empresa dedicada a crear y distribuir tecnología innovadora,
+          accesible y funcional. Diseñamos gadgets y dispositivos que
+          simplifican la vida diaria, mejoran la productividad y acercan a las
+          personas al futuro digital. Nuestro equipo combina experiencia en
           innovación, ingeniería y diseño para ofrecer soluciones tecnológicas
           de calidad.
-
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
