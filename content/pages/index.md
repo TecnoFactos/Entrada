@@ -67,7 +67,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ¿Quiénes Somos?
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Somos una empresa dedicada a crear y distribuir tecnología innovadora,
           accesible y funcional. Diseñamos gadgets y dispositivos que
