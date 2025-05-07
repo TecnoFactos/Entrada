@@ -243,10 +243,8 @@ sections:
         title: Programador de TecnoFactos
         tagline: ''
         subtitle: Max
-        text: >
-          Francisco Sanchez, Gerente de TI con más de 10 años de experiencia
-          liderando equipos en entornos corporativos. empresariales. Le gustan
-          Mayores. Se roba los tanques de gas de la empresa
+        text: |
+          Max
         image:
           type: ImageBlock
           url: /images/jfsg.png
