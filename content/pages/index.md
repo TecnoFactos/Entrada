@@ -63,7 +63,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Inicios
     items:
       - type: FeaturedItem
         title: 500k
