@@ -247,7 +247,7 @@ sections:
           Cuentan las leyendas que se podia hacer 7 pajas al dia
         image:
           type: ImageBlock
-          url: /images/jfsg.png
+          url: /images/zzz.png
           altText: Maria Walters
           styles:
             self:
