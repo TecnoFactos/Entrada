@@ -243,8 +243,15 @@ sections:
         title: Programador de TecnoFactos
         tagline: ''
         subtitle: Max
-        text: |
-          Cuentan las leyendas que se podia hacer 7 pajas al dia
+        text: >+
+          El arquitecto del código, domador de bugs y mago oficial del teclado.
+          Cuando no está escribiendo líneas incomprensibles para los mortales,
+          probablemente esté arreglando algo que *no debería haberse roto*... o
+          explicando por quinta vez que "reiniciar sí ayuda". Vive a base de
+          café, atajos de teclado y memes de programación. Si algo en Tecno
+          Factos funciona a la perfección, es probablemente culpa suya (y si no…
+          también).
+
         image:
           type: ImageBlock
           url: /images/zzz.png
