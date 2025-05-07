@@ -99,10 +99,21 @@ sections:
               borderRadius: x-large
       - title: Nuestra Historia
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Tecno Factos nació con la visión de revolucionar la manera en que
+          interactuamos con la tecnología. En un mercado lleno de productos
+          genéricos, decidimos crear dispositivos inteligentes que realmente
+          marcaran la diferencia: funcionales, fáciles de usar y con un diseño
+          atractivo.
+
+
+          Con el tiempo, gracias a la confianza de nuestros clientes, hemos
+          crecido, ampliado nuestro catálogo y perfeccionado cada uno de
+          nuestros productos para seguir ofreciendo experiencias tecnológicas
+          que mejoran la vida diaria.
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
