@@ -268,7 +268,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Coordinador de TecnoFactos
+        title: Tecnico Virtual de TecnoFactos
         tagline: ''
         subtitle: Francisco de Zer0
         text: >
