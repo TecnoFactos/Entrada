@@ -212,7 +212,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Tecnico De
+        title: Técnico de TecnoFactos
         tagline: ''
         subtitle: 'Jane Doe, Company'
         text: >
