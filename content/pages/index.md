@@ -337,7 +337,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Seguridad con TecnoFactos
       color: text-dark
       styles:
         self:
